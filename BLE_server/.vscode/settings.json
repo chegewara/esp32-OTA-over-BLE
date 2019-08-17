@@ -1,0 +1,5 @@
+{
+    "files.associations": {
+        "esp_ota_ops.h": "c"
+    }
+}
